@@ -1,0 +1,101 @@
+body {
+background-image: url("image.jpg");
+background-color: #cccccc;
+background-repeat: repeat;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+
+ul {
+list-style-type: none;
+   text-align:right;
+
+
+}
+a {
+padding: 8px;
+background-color: #dddddd;
+}
+li {
+display: inline;
+
+}
+
+a{
+       margin-bottom:50px;
+}
+
+a:link{
+   color:black;
+
+}
+
+a:visited {
+color: red;
+
+}
+
+/* mouse over link */
+a:hover {
+color: hotpink;
+}
+
+/* selected link */
+a:active {
+color: white;
+
+}
+
+h2{
+   color:white;
+   text-align:center;
+   margin-top:200px;
+}
+
+h1{
+   color:white;
+   text-align:center;
+  
+}
+
+#activity
+{
+   text-align:center;
+   color:white;
+   background-color:black;
+width: 250px;
+height: 30px;  
+   margin-left:550px;
+}
+#search
+{
+   padding-top:20px;
+   text-align:center;
+   color:white;
+   background-color:black;
+width: 500px;
+height: 50px;
+   margin-left:420px;
+  
+}
+
+#apartments{
+height:35px;
+}
+#Search
+{height:30px;
+
+}
+#AdvancedSearch
+{height:35px;
+
+}
+
+p{
+   color:white;
+   text-align:center;
+}
+
